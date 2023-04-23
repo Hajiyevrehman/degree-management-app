@@ -1,0 +1,30 @@
+.studentInfo {
+    background: #f4f4f9;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.infoItem {
+    margin-bottom: 10px;
+}
+
+.infoTitle {
+    font-weight: bold;
+    color: #6c63ff;
+}
+
+.progressBarContainer {
+    background: #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-top: 10px;
+}
+
+.progressBar {
+    background: #6c63ff;
+    height: 20px;
+    text-align: center;
+    color: white;
+}

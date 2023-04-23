@@ -1,0 +1,13 @@
+.pageContainer {
+    display: flex;
+    padding: 20px;
+}
+
+.coursesContainer {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.planContainer {
+    flex: 2;
+}
